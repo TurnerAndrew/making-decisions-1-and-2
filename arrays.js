@@ -72,3 +72,5 @@ while (guessMe < 100) {
     guessMe += 22
     console.log(`added 22, guessMe is now ${guessMe}`)
 }
+
+//this is a comment
